@@ -1,0 +1,9 @@
+.redar
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/**/*
+doc/api
+doc/app
+.DS_Store
+*.swp
